@@ -36,7 +36,7 @@ Some text here.
 Some text here.
 Some text here.
 
-## Chapter 4 <span id="Chapter2"><span>
+## Chapter 4 <span id="Chapter4"><span>
 
 Some text here.  
 Some text here.
